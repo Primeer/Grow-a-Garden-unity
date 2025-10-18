@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbbb03e9d7f54bcc9d41fbda71b337b6, type: 3}
+  m_Name: PlantsConfig
+  m_EditorClassIdentifier: 
+  m_dataList:
+  - Id: 0
+    Ru: "\u041C\u043E\u0440\u043A\u043E\u0432\u044C"
+    En: Carrot
+    Prefab: {fileID: 4017371696404668451, guid: 8748a84f54f0843a99faac4365ff6136, type: 3}
+    IsHarvestable: 1
+    Cost: 25
+    Weight: 0.1
+    Icon: {fileID: 21300000, guid: fa0292acde0dd42e88ba035b02f50d84, type: 3}
+  - Id: 1
+    Ru: "\u041A\u0443\u0441\u0442 \u043A\u043B\u0443\u0431\u043D\u0438\u043A\u0438"
+    En: Strawberry Plant
+    Prefab: {fileID: 4612437800416073941, guid: aab2a84818da449048a8d38c1e7cad2a, type: 3}
+    IsHarvestable: 0
+    Cost: 0
+    Weight: 0
+    Icon: {fileID: 0}
+  - Id: 2
+    Ru: "\u041A\u043B\u0443\u0431\u043D\u0438\u043A\u0430"
+    En: Strawberry
+    Prefab: {fileID: 2064961294759709096, guid: 749b51379945242d1b09c8cacaa2cbf7, type: 3}
+    IsHarvestable: 1
+    Cost: 25
+    Weight: 0.12
+    Icon: {fileID: 21300000, guid: d8ada511248c34f488c82876951aab23, type: 3}
+  - Id: 3
+    Ru: "\u0422\u044E\u043B\u044C\u043F\u0430\u043D"
+    En: Tulip
+    Prefab: {fileID: 8185308345455721554, guid: a3f5446a0a1bd4be5970dd4745e9f463, type: 3}
+    IsHarvestable: 1
+    Cost: 1500
+    Weight: 0.45
+    Icon: {fileID: 21300000, guid: aee7dffe320bc4814bb905d83690469d, type: 3}
+  - Id: 4
+    Ru: "\u041A\u0443\u0441\u0442 \u0442\u043E\u043C\u0430\u0442\u0430"
+    En: Tomato Plant
+    Prefab: {fileID: 2396942201114426484, guid: f60f25da7604342f5b4667d12991a214, type: 3}
+    IsHarvestable: 0
+    Cost: 0
+    Weight: 0
+    Icon: {fileID: 0}
+  - Id: 5
+    Ru: "\u0422\u043E\u043C\u0430\u0442"
+    En: Tomato
+    Prefab: {fileID: 1817499846572926658, guid: 7265a77b4ebe44fa9bcc2745e97c0486, type: 3}
+    IsHarvestable: 1
+    Cost: 75
+    Weight: 1.2
+    Icon: {fileID: 21300000, guid: b29536d9f58e0417d8bdb1a6b65aab07, type: 3}
+  - Id: 6
+    Ru: "\u041D\u0430\u0440\u0446\u0438\u0441\u0441"
+    En: Daffodil
+    Prefab: {fileID: 7367785875227766272, guid: 32cbcbe1aad814160957cbcccafb75fe, type: 3}
+    IsHarvestable: 1
+    Cost: 900
+    Weight: 0.76
+    Icon: {fileID: 21300000, guid: 6e120b8676e77440e821bc756dfeffc0, type: 3}
+  - Id: 7
+    Ru: "\u041A\u0443\u0441\u0442 \u0447\u0435\u0440\u043D\u0438\u043A\u0438"
+    En: Blueberry Bush
+    Prefab: {fileID: 3794413427227102300, guid: 55ee8cd1ca97a471a979ab593d2509b9, type: 3}
+    IsHarvestable: 0
+    Cost: 0
+    Weight: 0
+    Icon: {fileID: 0}
+  - Id: 8
+    Ru: "\u0427\u0435\u0440\u043D\u0438\u043A\u0430"
+    En: Blueberry
+    Prefab: {fileID: 8792999209748960542, guid: bd03a0c5d4e03479f837bef830747f6b, type: 3}
+    IsHarvestable: 1
+    Cost: 15
+    Weight: 0.1
+    Icon: {fileID: 21300000, guid: a21fd27f4ec4b4eca891fc2983f6a098, type: 3}
+  - Id: 9
+    Ru: "\u0422\u044B\u043A\u0432\u0430"
+    En: Pumpkin
+    Prefab: {fileID: 2008725618270024618, guid: 6e333f05c21b34f3fbda7f4b7be7b61b, type: 3}
+    IsHarvestable: 1
+    Cost: 9000
+    Weight: 11
+    Icon: {fileID: 21300000, guid: eb9a975b376d14cd7b75f7ad5ffba5eb, type: 3}
+  - Id: 10
+    Ru: "\u041F\u0430\u043B\u044C\u043C\u0430"
+    En: Coconut Tree
+    Prefab: {fileID: 6852181940710786035, guid: f5353309e35974cd084e909f498b4571, type: 3}
+    IsHarvestable: 0
+    Cost: 0
+    Weight: 0
+    Icon: {fileID: 0}
+  - Id: 11
+    Ru: "\u041A\u043E\u043A\u043E\u0441"
+    En: Coconut
+    Prefab: {fileID: 1206898572460032336, guid: 6615205fd524e42b9b3d974ac38f1e5b, type: 3}
+    IsHarvestable: 1
+    Cost: 350
+    Weight: 7
+    Icon: {fileID: 21300000, guid: 1347b0f1b712140bdaff2863b9abf137, type: 3}
+  - Id: 12
+    Ru: "\u041A\u0443\u043A\u0443\u0440\u0443\u0437\u0430"
+    En: Corn Plant
+    Prefab: {fileID: 6590055347203907605, guid: 2b029c89cc50b41fba273f40a481d4fe, type: 3}
+    IsHarvestable: 0
+    Cost: 0
+    Weight: 0
+    Icon: {fileID: 0}
+  - Id: 13
+    Ru: "\u041A\u0443\u043A\u0443\u0440\u0443\u0437\u043D\u044B\u0439 \u043F\u043E\u0447\u0430\u0442\u043E\u043A"
+    En: Corn
+    Prefab: {fileID: 3298306480072648206, guid: a21335a218f9143c39b481e193e2da60, type: 3}
+    IsHarvestable: 1
+    Cost: 150
+    Weight: 1.5
+    Icon: {fileID: 21300000, guid: bdc242544e023434d96e5dfce373540c, type: 3}
+  - Id: 14
+    Ru: "\u041C\u0430\u043D\u0433\u043E\u0432\u043E\u0435 \u0434\u0435\u0440\u0435\u0432\u043E"
+    En: Mango Tree
+    Prefab: {fileID: 4798481990946013384, guid: 07ffc4fc456ec484e8a552ba1e47ebc8, type: 3}
+    IsHarvestable: 0
+    Cost: 0
+    Weight: 0
+    Icon: {fileID: 0}
+  - Id: 15
+    Ru: "\u041C\u0430\u043D\u0433\u043E"
+    En: Mango
+    Prefab: {fileID: 5253869518468095949, guid: de165e868c59f4b0d9f2f8e74c7114b8, type: 3}
+    IsHarvestable: 1
+    Cost: 4500
+    Weight: 4
+    Icon: {fileID: 21300000, guid: f0782395b46b44f2ab609c750fe10fb5, type: 3}

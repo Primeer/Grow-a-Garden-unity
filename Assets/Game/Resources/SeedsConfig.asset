@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33e09dc87b05408e9658e1a167d67ab9, type: 3}
+  m_Name: SeedsConfig
+  m_EditorClassIdentifier: 
+  m_dataList:
+  - Id: 0
+    Ru: "\u0421\u0435\u043C\u0435\u043D\u0430 \u041C\u043E\u0440\u043A\u043E\u0432\u0438"
+    En: Carrot Seeds
+    Cost: 10
+    PlantId: 0
+    Rarity: 0
+    Ads: 1
+    Tag: seeds_carrot
+    Sprite: {fileID: 21300000, guid: fa0292acde0dd42e88ba035b02f50d84, type: 3}
+  - Id: 1
+    Ru: "\u0421\u0435\u043C\u0435\u043D\u0430 \u041A\u043B\u0443\u0431\u043D\u0438\u043A\u0438"
+    En: Strawberry Seeds
+    Cost: 50
+    PlantId: 1
+    Rarity: 0
+    Ads: 1
+    Tag: seeds_strawberry
+    Sprite: {fileID: 21300000, guid: d8ada511248c34f488c82876951aab23, type: 3}
+  - Id: 2
+    Ru: "\u0421\u0435\u043C\u0435\u043D\u0430 \u0427\u0435\u0440\u043D\u0438\u043A\u0438"
+    En: Blueberry Seeds
+    Cost: 400
+    PlantId: 7
+    Rarity: 1
+    Ads: 1
+    Tag: seeds_blueberry
+    Sprite: {fileID: 21300000, guid: a21fd27f4ec4b4eca891fc2983f6a098, type: 3}
+  - Id: 3
+    Ru: "\u0421\u0435\u043C\u0435\u043D\u0430 \u0422\u044E\u043B\u044C\u043F\u0430\u043D\u0430"
+    En: Tulip Seeds
+    Cost: 600
+    PlantId: 3
+    Rarity: 1
+    Ads: 1
+    Tag: seeds_tulip
+    Sprite: {fileID: 21300000, guid: aee7dffe320bc4814bb905d83690469d, type: 3}
+  - Id: 4
+    Ru: "\u0421\u0435\u043C\u0435\u043D\u0430 \u0422\u043E\u043C\u0430\u0442\u0430"
+    En: Tomato Seeds
+    Cost: 800
+    PlantId: 4
+    Rarity: 2
+    Ads: 1
+    Tag: seeds_tomato
+    Sprite: {fileID: 21300000, guid: b29536d9f58e0417d8bdb1a6b65aab07, type: 3}
+  - Id: 5
+    Ru: "\u0421\u0435\u043C\u0435\u043D\u0430 \u041A\u0443\u043A\u0443\u0440\u0443\u0437\u044B"
+    En: Corn Seeds
+    Cost: 1300
+    PlantId: 12
+    Rarity: 2
+    Ads: 1
+    Tag: seeds_corn
+    Sprite: {fileID: 21300000, guid: bdc242544e023434d96e5dfce373540c, type: 3}
+  - Id: 6
+    Ru: "\u0421\u0435\u043C\u0435\u043D\u0430 \u041D\u0430\u0440\u0446\u0438\u0441\u0441\u0430"
+    En: Daffodil Seeds
+    Cost: 1000
+    PlantId: 6
+    Rarity: 2
+    Ads: 1
+    Tag: seeds_daffodil
+    Sprite: {fileID: 21300000, guid: 6e120b8676e77440e821bc756dfeffc0, type: 3}
+  - Id: 7
+    Ru: "\u0421\u0435\u043C\u0435\u043D\u0430 \u0422\u044B\u043A\u0432\u044B"
+    En: Pumpkin Seeds
+    Cost: 3500
+    PlantId: 9
+    Rarity: 3
+    Ads: 1
+    Tag: seeds_pumpkin
+    Sprite: {fileID: 21300000, guid: eb9a975b376d14cd7b75f7ad5ffba5eb, type: 3}
+  - Id: 8
+    Ru: "\u0421\u0435\u043C\u0435\u043D\u0430 \u041F\u0430\u043B\u044C\u043C\u044B"
+    En: Coconut Seeds
+    Cost: 55000
+    PlantId: 10
+    Rarity: 4
+    Ads: 0
+    Tag: seeds_coconut
+    Sprite: {fileID: 21300000, guid: 1347b0f1b712140bdaff2863b9abf137, type: 3}
+  - Id: 9
+    Ru: "\u0421\u0435\u043C\u0435\u043D\u0430 \u041C\u0430\u043D\u0433\u043E"
+    En: Mango Seeds
+    Cost: 256000
+    PlantId: 14
+    Rarity: 5
+    Ads: 0
+    Tag: seeds_mango
+    Sprite: {fileID: 21300000, guid: f0782395b46b44f2ab609c750fe10fb5, type: 3}

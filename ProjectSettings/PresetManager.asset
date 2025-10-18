@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1386491679 &1
+PresetManager:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_DefaultPresets:
+  - first:
+      m_NativeTypeID: 1020
+      m_ManagedTypePPtr: {fileID: 0}
+      m_ManagedTypeFallback: 
+    second:
+    - m_Preset: {fileID: 2655988077585873504, guid: 512325e6688264194867bc6778eddeba, type: 2}
+      m_Filter: glob:"*Music/**"
+      m_Disabled: 0
+    - m_Preset: {fileID: 2655988077585873504, guid: 4537f261567184a85ab8bcfec93e8f37, type: 2}
+      m_Filter: glob:"*Sounds/**"
+      m_Disabled: 0
+  - first:
+      m_NativeTypeID: 1006
+      m_ManagedTypePPtr: {fileID: 0}
+      m_ManagedTypeFallback: 
+    second:
+    - m_Preset: {fileID: 2655988077585873504, guid: b667f909a20784506a1ca24d607a9206, type: 2}
+      m_Filter: glob:"*Sprites/**"
+      m_Disabled: 0
+    - m_Preset: {fileID: 2655988077585873504, guid: 2bb6f684fc7384048bf5d176a8c738e0, type: 2}
+      m_Filter: glob:"*Textures/**"
+      m_Disabled: 0
